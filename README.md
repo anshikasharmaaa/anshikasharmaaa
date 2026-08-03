@@ -1,4 +1,4 @@
-# 👋 About Me
+# About Me
 Hey there! I'm a Computer Science student who’s diving deep into the world of web development and problem solving.
 🌐 Currently exploring the MERN stack (MongoDB, Express.js, React, Node.js) by building projects and learning how things actually work under the hood
 💻 Practicing Data Structures & Algorithms to level up problem-solving skills
